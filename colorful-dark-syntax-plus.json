@@ -1,6 +1,6 @@
 {
     "$schema": "vscode://schemas/color-theme",
-    "name": "Colorful Dark Syntax+",
+    "name": "colorful-dark-syntax-plus",
     "type": "dark",
     "semanticHighlighting": false,
     "colors": {
