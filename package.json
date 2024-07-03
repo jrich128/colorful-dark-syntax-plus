@@ -1,0 +1,28 @@
+{
+    "version": "0.1.0",
+    "license": "MIT",
+    "name": "colorful-dark-syntax-plus",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "publisher": "jrich128",
+    "displayName": "Colorful Dark Syntax+",
+    "description": "Colorful Dark Theme. Based on Dark Plus Syntax",
+    "categories": [
+        "Themes"
+    ],
+    "icon": "dist/assets/128.png",
+    "galleryBanner": {
+        "color": "#569cd6",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Colorful Dark Syntax+",
+                "uiTheme": "vs-dark",
+                "path": "colorful-dark-syntax-plus.json"
+            }
+        ]
+    }
+}
