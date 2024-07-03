@@ -19,7 +19,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Colorful Dark Syntax+",
+                "label": "colorful-dark-syntax-plus",
                 "uiTheme": "vs-dark",
                 "path": "colorful-dark-syntax-plus.json"
             }
